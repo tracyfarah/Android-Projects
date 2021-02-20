@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coffee Talk</string>
+    <string name="coffee_talk_logo">Coffee Talk Logo</string>
+    <string-array name="coffee_talk_list_view_options">
+        <item>Drinks</item>
+        <item>Plates</item>
+        <item>Contact Us</item>
+    </string-array>
+    <string name="help_button">Help</string>
+    <string name="help_toast">Click on an item above.</string>
+    <string name="product_image_view">Product Image</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Geometric Calculations</string>
+    
+    <string name="shape_title">Enter length and width of the rectangle:</string>
+    <string name="shape_length">Length</string>
+    <string name="shape_width">Width</string>
+    <string name="calculate_button">Calculate</string>
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/title_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shape_title" />
+
+    <EditText
+        android:id="@+id/length_edit_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/shape_length"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/width_edit_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/shape_width"
+        android:inputType="number" />
+
+        android:id="@+id/calculate_perimeter_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClickCalculatePerimeterAndArea"
+        android:text="@string/calculate_button" />
+
+    <TextView
+        android:id="@+id/results_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="..." />
+
+</LinearLayout>

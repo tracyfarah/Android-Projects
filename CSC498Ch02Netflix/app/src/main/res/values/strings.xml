@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Netflix Recommendation</string>
+
+    <string name="choose_movie_title">What do you feel like watching?</string>
+    <string-array name="choose_movie_options">
+        <item>Action</item>
+        <item>Anime</item>
+        <item>Children &amp; Family</item>
+        <item>Comedy</item>
+        <item>Fantasy</item>
+        <item>Horror</item>
+        <item>Romance</item>
+    </string-array>
+    <string name="choose_movie_button">Recommend</string>
+
+</resources>

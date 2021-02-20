@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coffee Recommendation</string>
+    <string name="choose_coffee_title">How do you like your coffee?</string>
+    <string-array name="choose_coffee_options">
+        <item>Strongest</item>
+        <item>Bitter and Black</item>
+        <item>Weak and Black</item>
+        <item>With Milk</item>
+        <item>Lots of Milk</item>
+        <item>Chocolate and Milk</item>
+        <item>No Caffeine</item>
+    </string-array>
+    <string name="choose_coffee_button">Recommend</string>
+</resources>
