@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sneaker Store</string>
+    <string name="title_text">"Sneaker Store"</string>
+    <string name="image_description">Sneaker Picture</string>
+    <string name="start_button">Find a Pair</string>
+    <string name="app_logo">App Logo</string>
+</resources>
